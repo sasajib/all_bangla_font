@@ -1,5 +1,7 @@
 1. Download all Bangla font from https://github.com/bulbul5391/all_bangla_font
-```git clone ...repo...url...```
+```
+git clone ...repo...url...
+```
 2. Now go to /usr/local/share/fonts directory and create a folder. example "bangla"
 ``` sudo mkdir bangla
     sudo chmod -R 777 bangla
